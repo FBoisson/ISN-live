@@ -1,0 +1,5 @@
+[MIME Cache]
+application/winhlp=wine-extension-hlp.desktop;
+application/x-extension-htm=wine-extension-htm.desktop;
+application/x-extension-html=wine-extension-html.desktop;
+application/x-wine-extension-vbs=wine-extension-vbs.desktop;

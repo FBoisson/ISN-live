@@ -1,0 +1,28 @@
+[Graphe2D]
+row=2
+col=1
+
+[OrbiMol (LCT)]
+row=3
+col=1
+
+[Cinewin]
+row=0
+col=1
+
+[Solwin]
+row=1
+col=1
+
+[RMN]
+row=2
+col=0
+
+[Système de fichiers]
+row=1
+col=0
+
+[Répertoire personnel]
+row=0
+col=0
+

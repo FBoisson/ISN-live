@@ -1,0 +1,24 @@
+[Solwin]
+row=2
+col=0
+
+[Graphe2D]
+row=3
+col=0
+
+[Cinewin]
+row=4
+col=0
+
+[OrbiMol (LCT)]
+row=5
+col=0
+
+[Système de fichiers]
+row=1
+col=0
+
+[Répertoire personnel]
+row=0
+col=0
+

@@ -3,4 +3,13 @@
 <channel name="xfce4-mixer" version="1.0">
   <property name="active-card" type="string" value="HDAIntelPCHAlsamixer"/>
   <property name="volume-step-size" type="uint" value="5"/>
+  <property name="sound-card" type="string" value="HDAIntelHDMIAlsamixer"/>
+  <property name="sound-cards" type="empty">
+    <property name="HDAIntelHDMIAlsamixer" type="array">
+      <value type="string" value="Volume général"/>
+      <value type="string" value="Speaker"/>
+    </property>
+  </property>
+  <property name="window-height" type="int" value="568"/>
+  <property name="window-width" type="int" value="671"/>
 </channel>

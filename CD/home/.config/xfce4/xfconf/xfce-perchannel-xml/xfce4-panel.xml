@@ -4,7 +4,7 @@
   <property name="panels" type="uint" value="1">
     <property name="panel-0" type="empty">
       <property name="size" type="uint" value="28"/>
-      <property name="length" type="uint" value="100"/>
+      <property name="length" type="uint" value="1"/>
       <property name="locked" type="bool" value="true"/>
       <property name="autohide" type="bool" value="false"/>
       <property name="plugin-ids" type="array">
@@ -14,7 +14,6 @@
         <value type="int" value="4"/>
         <value type="int" value="5"/>
         <value type="int" value="6"/>
-        <value type="int" value="7"/>
         <value type="int" value="8"/>
         <value type="int" value="9"/>
         <value type="int" value="10"/>
@@ -25,10 +24,10 @@
         <value type="int" value="15"/>
         <value type="int" value="16"/>
       </property>
-      <property name="horizontal" type="bool" value="true"/>
       <property name="position" type="string" value="p=10;x=0;y=738"/>
       <property name="leave-opacity" type="uint" value="80"/>
       <property name="enter-opacity" type="uint" value="100"/>
+      <property name="mode" type="uint" value="0"/>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -70,7 +69,6 @@
       <property name="flat-buttons" type="bool" value="true"/>
       <property name="show-handle" type="bool" value="true"/>
     </property>
-    <property name="plugin-7" type="string" value="xfce4-mixer-plugin"/>
     <property name="plugin-8" type="string" value="xfce4-mount-plugin"/>
     <property name="plugin-9" type="string" value="launcher">
       <property name="move-first" type="bool" value="false"/>
@@ -83,6 +81,9 @@
       <property name="show-frame" type="bool" value="false"/>
       <property name="rows" type="uint" value="1"/>
       <property name="names-visible" type="array">
+        <value type="string" value="applet networkmanager"/>
+        <value type="string" value="scp-dbus-service.py"/>
+        <value type="string" value="thunar"/>
         <value type="string" value="wicd-client.py"/>
       </property>
     </property>
@@ -117,4 +118,5 @@
       </property>
     </property>
   </property>
+  <property name="configver" type="int" value="2"/>
 </channel>

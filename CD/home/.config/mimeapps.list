@@ -1,0 +1,27 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Iceweasel-39IOCY.desktop
+x-scheme-handler/https=userapp-Iceweasel-39IOCY.desktop
+x-scheme-handler/ftp=userapp-Iceweasel-39IOCY.desktop
+x-scheme-handler/chrome=userapp-Iceweasel-39IOCY.desktop
+text/html=userapp-Iceweasel-39IOCY.desktop
+application/x-extension-htm=userapp-Iceweasel-39IOCY.desktop
+application/x-extension-html=userapp-Iceweasel-39IOCY.desktop
+application/x-extension-shtml=userapp-Iceweasel-39IOCY.desktop
+application/xhtml+xml=userapp-Iceweasel-39IOCY.desktop
+application/x-extension-xhtml=userapp-Iceweasel-39IOCY.desktop
+application/x-extension-xht=userapp-Iceweasel-39IOCY.desktop
+image/png=geeqie.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Iceweasel-39IOCY.desktop;
+x-scheme-handler/https=userapp-Iceweasel-39IOCY.desktop;
+x-scheme-handler/ftp=userapp-Iceweasel-39IOCY.desktop;
+x-scheme-handler/chrome=userapp-Iceweasel-39IOCY.desktop;
+text/html=userapp-Iceweasel-39IOCY.desktop;
+application/x-extension-htm=userapp-Iceweasel-39IOCY.desktop;
+application/x-extension-html=userapp-Iceweasel-39IOCY.desktop;
+application/x-extension-shtml=userapp-Iceweasel-39IOCY.desktop;
+application/xhtml+xml=userapp-Iceweasel-39IOCY.desktop;
+application/x-extension-xhtml=userapp-Iceweasel-39IOCY.desktop;
+application/x-extension-xht=userapp-Iceweasel-39IOCY.desktop;
+image/png=geeqie.desktop;

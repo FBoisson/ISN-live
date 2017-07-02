@@ -18,10 +18,10 @@
           <value type="uint" value="65535"/>
         </property>
         <property name="color-style" type="empty"/>
-        <property name="image-path" type="string" value="/usr/share/pixmaps/isn/tuxmenu.png"/>
+        <property name="image-path" type="string" value="/usr/share/xfce4/backdrops/digue.jpg"/>
         <property name="image-show" type="empty"/>
-        <property name="last-image" type="string" value="/usr/share/pixmaps/isn/tuxmenu.png"/>
-        <property name="last-single-image" type="string" value="/usr/share/pixmaps/isn/tuxmenu.png"/>
+        <property name="last-image" type="string" value="/usr/share/xfce4/backdrops/digue.jpg"/>
+        <property name="last-single-image" type="string" value="/usr/share/xfce4/backdrops/digue.jpg"/>
         <property name="image-style" type="int" value="3"/>
       </property>
     </property>
@@ -32,6 +32,7 @@
     <property name="file-icons" type="empty">
       <property name="show-removable" type="bool" value="false"/>
     </property>
+    <property name="icon-size" type="uint" value="32"/>
   </property>
   <property name="desktop-menu" type="empty">
     <property name="show" type="bool" value="true"/>

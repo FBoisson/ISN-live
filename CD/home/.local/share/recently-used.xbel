@@ -3,12 +3,12 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///usr/share/pixmaps/isn/tux.png" added="2013-07-11T10:22:54Z" modified="2013-07-11T10:22:54Z" visited="2013-07-11T10:22:55Z">
+  <bookmark href="file:///home/user/%5BSOLVED%5D%20Run%20script%20with%20systemd%20at%20shutdown%20-%20FedoraForum.org.html" added="2016-02-04T22:05:51Z" modified="2016-02-04T22:05:52Z" visited="2016-02-04T22:05:52Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
+        <mime:mime-type type="application/x-extension-html"/>
         <bookmark:applications>
-          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2013-07-11T10:22:54Z" count="1"/>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2016-02-04T22:05:52Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
